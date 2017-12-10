@@ -1,0 +1,16 @@
+body{
+  background: url('https://img1.goodfon.com/original/2560x1600/3/d8/frame-white-wall-gold.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: 'Berkshire Swash', cursive;
+}
+button{
+      margin-top: 550px;
+      margin-left: 46%;
+      margin-right: 45%;
+}
+
+.black-background {background-color:#000000;}
+.white {color:#ffffff;}
